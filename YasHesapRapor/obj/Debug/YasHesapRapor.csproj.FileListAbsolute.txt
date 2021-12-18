@@ -1,0 +1,7 @@
+C:\Users\conyc\source\repos\YasHesapRapor\YasHesapRapor\bin\Debug\YasHesapRapor.exe.config
+C:\Users\conyc\source\repos\YasHesapRapor\YasHesapRapor\bin\Debug\YasHesapRapor.exe
+C:\Users\conyc\source\repos\YasHesapRapor\YasHesapRapor\bin\Debug\YasHesapRapor.pdb
+C:\Users\conyc\source\repos\YasHesapRapor\YasHesapRapor\obj\Debug\YasHesapRapor.csproj.AssemblyReference.cache
+C:\Users\conyc\source\repos\YasHesapRapor\YasHesapRapor\obj\Debug\YasHesapRapor.csproj.CoreCompileInputs.cache
+C:\Users\conyc\source\repos\YasHesapRapor\YasHesapRapor\obj\Debug\YasHesapRapor.exe
+C:\Users\conyc\source\repos\YasHesapRapor\YasHesapRapor\obj\Debug\YasHesapRapor.pdb
